@@ -31,4 +31,4 @@ plt.title('Cat')
 plt.show()
 
 # Svae the file
-cv2.imwrite("output.jpg",finalImage)
+cv2.imwrite("Pictures/output.jpg",finalImage)
