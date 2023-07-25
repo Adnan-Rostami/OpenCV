@@ -4,7 +4,7 @@ import numpy
 import matplotlib.pyplot as plt
 
 # Reading a image
-firstpic = cv2.imread('Cat.jpg')
+firstpic = cv2.imread('Pictures/Cat.jpg')
 secondpics = cv2.cvtColor(firstpic, cv2.COLOR_BGR2RGB)
 
 # Showing the image in computer view (BGR)
